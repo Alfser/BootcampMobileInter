@@ -1,0 +1,2 @@
+rootProject.name = "AppSimpleStoreAPI"
+include ':app'
