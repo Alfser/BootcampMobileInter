@@ -4,7 +4,7 @@ Este repositório contém as atividades e projetos realizados no Bootcamp Androi
 ## App de Listar filmes
 ### [AppMovies](./AppMovies)
 
-## App de Lista de Agenda
+## App de de Agenda
 ### [AppAgenda](./AppAgenda)
 <!--<img src='./listacontatosApp/screenshots/home.jpeg' width=200 height=350/>-->
 

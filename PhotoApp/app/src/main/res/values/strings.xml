@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhotoApp</string>
+    <string name="select_image">selecionar imagem</string>
+    <string name="take_photo">tirar foto</string>
+</resources>
