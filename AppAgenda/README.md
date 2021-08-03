@@ -1,29 +1,22 @@
-# Bootcamp Android Developer
-Este repositório contém as atividades e projetos realizados no Bootcamp Android Developer promovido pelo Banco Inter e a DIO.
+# AppAgenda
+App para cadastrar evento na agenda do celular.
+Este app foi desenvolvido dentro do Bootcamp Mobile Santander
 
-## App de Listar filmes
-### [AppMovies](./AppMovies)
-<img src='./AppMovies/screenshots/screen_1.jpg' width=200 height=350/>
+## Principais recursos usados
 
-## App de Agenda
-### [AppAgenda](./AppAgenda)
-<img src='./AppAgenda/screenshots/screen_2.jpg' width=200 height=350/>
+ - Utilizando o recurso de Agenda do celular
 
-## App de Contatos
-### [ContactApp](./ContactApp)
-<img src='./ContactApp/screenshots/screen_1.jpg' width=200 height=350/>
+## Screenshots do Aplicativo.
 
-## App de Mapa
-### [GoogleMapsApp](./GoogleMapsApp)
-<img src='./GoogleMapsApp/screenshots/screen_1.jpg' width=200 height=350/>
+![home](./screenshots/screen_1.jpg)
 
-## App de Photo
-### [PhotoApp](./PhotoApp)
-<img src='./PhotoApp/screenshots/screen_1.jpg' width=200 height=350/>
+![home2](./screenshots/screen_2.jpg)
 
-# Licença
+![home3](./screenshots/screen_3.jpg)
 
-Copyright 2021 Janilson Serra.
+## Licença
+
+Copyright 2019-2021 Janilson Serra.
 
 Licensed to the Apache Software Foundation (ASF) under one or more contributor
 license agreements.  See the NOTICE file distributed with this work for
@@ -40,8 +33,7 @@ WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
 
----
-# Contate me
+## Contate me
 
 - Email: j.janilson12@gmail.com
 - Linkedin : https://www.linkedin.com/in/janilsonalfser
