@@ -9,7 +9,7 @@ Este app foi desenvolvido dentro do Bootcamp Mobile Santander.
 
 ## Screenshots do Aplicativo.
 
-![home](./screenshots/screen_1.jpeg)
+![home](./screenshots/screen_1.jpg)
 
 ## Licença
 
